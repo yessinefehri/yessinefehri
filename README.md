@@ -58,8 +58,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=yessinefehri&theme=tokyonight&row=1&margin-w=10" alt="yessinefehri"/>
 </p>
 
----
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yessine-fehri-4691a9241/">Yessine Fehri</a>
-</p>
