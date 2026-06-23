@@ -22,10 +22,8 @@
 ## Tech Stack
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/logosworld/logos/main/network/eve-ng.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/logosworld/logos/main/network/gns3.svg" width="40"/>
-<img src="https://nmap.org/images/nmap-logo-256x256.png" width="40"/>
-<img src="https://www.wireshark.org/assets/icons/wireshark-fin.png" width="40"/>
+<img src="https://img.shields.io/badge/EVE--NG-Network_Simulator-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GNS3-Network_Simulator-blue?style=for-the-badge"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
