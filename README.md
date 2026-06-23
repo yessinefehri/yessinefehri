@@ -12,7 +12,7 @@
 
 ### About Me
 
-- 2nd year student in **Génie Réseaux et Télécommunications** at [INSAT](https://insat.rnu.tn/), Tunisia
+- 2nd year student in **Network & Telecommunication** at [INSAT](https://insat.rnu.tn/), Tunisia
 - Currently working on **[INTOM](https://github.com/yessinefehri)** — a mobile app connecting travelers with locals for authentic, off-the-beaten-path experiences
 - Certified **CCNA 1 & 2** | Passionate about networking, protocols & distributed systems
 - Reach me at **yessine.fehri@insat.ucar.tn**
