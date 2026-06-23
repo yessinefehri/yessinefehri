@@ -1,6 +1,6 @@
 <div align="center">
 
-# Yessine Fehri
+# [Yessine Fehri](https://www.linkedin.com/in/yessine-fehri-4691a9241/)
 
 **Network & Telecommunications Engineering Student · Co-founder & CTO @ INTOM**
 
@@ -10,16 +10,16 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
-- 🎓 2nd year student in **Génie Réseaux et Télécommunications** at [INSAT](https://insat.rnu.tn/), Tunisia
-- 🚀 Currently working on **[INTOM](https://github.com/yessinefehri)** — a mobile app connecting travelers with locals for authentic, off-the-beaten-path experiences
-- 📡 Certified **CCNA 1 & 2** | Passionate about networking, protocols & distributed systems
-- 📫 Reach me at **yessine.fehri@insat.ucar.tn**
+-  2nd year student in **Génie Réseaux et Télécommunications** at [INSAT](https://insat.rnu.tn/), Tunisia
+-  Currently working on **[INTOM](https://github.com/yessinefehri)** — a mobile app connecting travelers with locals for authentic, off-the-beaten-path experiences
+-  Certified **CCNA 1 & 2** | Passionate about networking, protocols & distributed systems
+-  Reach me at **yessine.fehri@insat.ucar.tn**
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -38,6 +38,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+  <img src="https://www.eve-ng.net/images/eve-logo.png" alt="EVE-NG" width="40" height="40"/>
 </p>
 
 ---
