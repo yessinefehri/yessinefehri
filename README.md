@@ -2,7 +2,7 @@
 
 # [Yessine Fehri](https://www.linkedin.com/in/yessine-fehri-4691a9241/)
 
-**Network & Telecommunications Engineering Student · Co-founder & CTO @ INTOM**
+**Network & Telecommunications Engineering Student**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=yessinefehri&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/yessinefehri)
 
@@ -12,7 +12,7 @@
 
 ### About Me
 
-- 2nd year student in **Network & Telecommunication** at [INSAT](https://insat.rnu.tn/), Tunisia
+- 2nd year student in **Génie Réseaux et Télécommunications** at [INSAT](https://insat.rnu.tn/), Tunisia
 - Currently working on **[INTOM](https://github.com/yessinefehri)** — a mobile app connecting travelers with locals for authentic, off-the-beaten-path experiences
 - Certified **CCNA 1 & 2** | Passionate about networking, protocols & distributed systems
 - Reach me at **yessine.fehri@insat.ucar.tn**
@@ -56,4 +56,10 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yessinefehri&theme=tokyonight&row=1&margin-w=10" alt="yessinefehri"/>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yessine-fehri-4691a9241/">Yessine Fehri</a>
 </p>
