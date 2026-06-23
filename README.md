@@ -22,6 +22,10 @@
 ## Tech Stack
 
 <p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/EVE-NG_Logo.png" width="40"/>
+  <img src="https://www.gns3.com/assets/dist/images/gns3-logo.png" width="40"/>
+  <img src="https://nmap.org/images/nmap-logo-256x256.png" width="40"/>
+  <img src="https://www.wireshark.org/assets/icons/wireshark-fin.png" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
